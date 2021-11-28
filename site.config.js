@@ -1,6 +1,6 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: '920d6944c0fd4431a09acc9311fbc9ec',
+  rootNotionPageId: 'Dolisun-d024e2c3e95241fe90978420546b7533',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: 'Dolisun的个人博客',
-  domain: 'https://www.notion.so/920d6944c0fd4431a09acc9311fbc9ec',
+  domain: 'https://www.notion.so/Dolisun-d024e2c3e95241fe90978420546b7533',
   author: 'Dolisun',
 
   // open graph metadata (optional)
